@@ -42,7 +42,7 @@
     "@snailycad/types": "1.74.0",
     "archiver": "^6.0.1",
     "dotenv": "^16.4.5",
-    "undici": "5.27.0"
+    "undici": "6.29.1"
   },
   "prettier": {
     "semi": true,
